@@ -13,47 +13,47 @@ software and web development.
 - 6 Days (or) 36 Hours.
 
 ## Table of Contents
-|S.No|Topics| Duration|
-|-----|----|-----|
-|1|Python Introduction| 1 Hr|
-|2|Literate Programming |1 Hr |
-|3|Jupyter Notebook Environment||
-|4|Markdown format for documentation||
-|5|Python basics |1 Hr|
-|6|Keywords in Python,Operators in Python |1 Hr|
-|7|Conditional Statements |1 Hr|
-|8|Iterations| 2 Hrs|
+|S.No|Topics|
+|-----|----|
+|1|Python Introduction|
+|2|Literate Programming |
+|3|Jupyter Notebook Environment|
+|4|Markdown format for documentation|
+|5|Python basics |
+|6|Keywords in Python,Operators in Python |
+|7|Conditional Statements |
+|8|Iterations|
 |9|Jump Statements(Break,Continue with examples)|
 |10|continue(with example)|
 |11|Functions|
-|12|Arguements in Functions |2 Hrs|
+|12|Arguements in Functions |
 |13|Strings|
-|14|String Functions,String Slicing| 2 Hrs|
+|14|String Functions,String Slicing|
 |15|Python Data Structures|
 |16|Lists|
-|17|List Methods |1 Hr|
+|17|List Methods |
 |18|Tuples|
-|19|Tuple Methods |1 Hr|
+|19|Tuple Methods |
 |20|Dictionaries|
-|21|Dictionary Methods |2 Hrs|
+|21|Dictionary Methods |
 |22|Sets|
-|23|Set Methods |1 Hr|
+|23|Set Methods |
 |24|Packages and Modules|
-|25|Regular Expression |2 Hrs|
-|26|File Handling| 2 Hrs|
-|27|List Comprehension |1 Hr|
-|28|Iterators, Generators |1 Hr|
+|25|Regular Expression |
+|26|File Handling|
+|27|List Comprehension |
+|28|Iterators, Generators |
 |29|Functional Programming|
-|30|Maps, Filters, Lambda |2 Hr|
-|31|Object-Oriented Programming|3 Hrs|
+|30|Maps, Filters, Lambda |
+|31|Object-Oriented Programming|
 |32|Classes, Objects, Constructors, inheritence|
 |33|Python Packages and modules using oop's.|
 |34|Python Libraries for Data Science|
-|35|NumPy, Nd arrays, Advantages of NumPy| 2 Hrs|
+|35|NumPy, Nd arrays, Advantages of NumPy|
 |36|Pandas|
-|37|Data Structures in Pandas,Pandas Series| 3Hrs|
+|37|Data Structures in Pandas,Pandas Series|
 |38|Data Frames|
-|39|Data Visualisation using Matplotlib library |3 hrs|
+|39|Data Visualisation using Matplotlib library |
 
 
 ## Learning Outcome

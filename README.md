@@ -23,8 +23,8 @@ software and web development.
 |6|Keywords in Python,Operators in Python |
 |7|Conditional Statements |
 |8|Iterations|
-|9|Jump Statements(Break,Continue with examples)|
-|10|continue(with example)|
+|9|Jump Statements (Break, Continue with examples)|
+|10|continue (with example)|
 |11|Functions|
 |12|Arguements in Functions |
 |13|Strings|
@@ -47,7 +47,7 @@ software and web development.
 |30|Maps, Filters, Lambda |
 |31|Object-Oriented Programming|
 |32|Classes, Objects, Constructors, inheritence|
-|33|Python Packages and modules using oop's.|
+|33|Python Packages and modules using oop's|
 |34|Python Libraries for Data Science|
 |35|NumPy, Nd arrays, Advantages of NumPy|
 |36|Pandas|

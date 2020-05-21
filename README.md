@@ -48,3 +48,16 @@
 [Day3_Practice_Problems](https://github.com/AP-Skill-Development-Corporation/Python-FDP-TEAM-1-1/blob/master/Day3_20May2020/Day3_practice_problems.ipynb)
 
 [Day3_Recorded_Video →](https://transcripts.gotomeeting.com/#/s/56c374a244de784081cc6f42d0f65ef55a525ac081c89a02b5b227c7bc45862c)
+
+## Day4 Discussed Concepts
+
+1. Tuple
+2. Tuple Methods
+3. Sets
+4. Set Methods
+
+[Day4_Python_Notebook →](not updated yet)
+
+[Day4_Practice_Problems](https://github.com/AP-Skill-Development-Corporation/Python-FDP-TEAM-1-1/blob/master/Day4_21May2020/Day4_Practice_Problems.ipynb)
+
+[Day3_Recorded_Video →](not updated yet)

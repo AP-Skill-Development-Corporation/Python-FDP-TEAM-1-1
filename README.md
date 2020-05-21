@@ -15,7 +15,7 @@
 
 [Day1 Notebook →](https://github.com/AP-Skill-Development-Corporation/Python-FDP-TEAM-1-1/blob/master/Day1_18May2020/Day1.ipynb)
 
-[Day1_Discussed_Slides →]()
+[Day1_Discussed_Slides →](https://github.com/AP-Skill-Development-Corporation/Python-FDP-TEAM-1-1/blob/master/Day1_18May2020/presentationDay1%20(1).pdf)
 
 [Day1_Recorded_Video →](https://transcripts.gotomeeting.com/#/s/c6060e7e64c28158f286520b552df4c391e2f44db9dce6b3c8ff0c8a6e28a3c2)
 

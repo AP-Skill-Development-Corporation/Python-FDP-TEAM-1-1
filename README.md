@@ -56,8 +56,8 @@
 3. Sets
 4. Set Methods
 
-[Day4_Python_Notebook →](not updated yet)
+[Day4_Python_Notebook →](pending)
 
 [Day4_Practice_Problems](https://github.com/AP-Skill-Development-Corporation/Python-FDP-TEAM-1-1/blob/master/Day4_21May2020/Day4_Practice_Problems.ipynb)
 
-[Day3_Recorded_Video →](not updated yet)
+[Day4_Recorded_Video →](https://transcripts.gotomeeting.com/#/s/87146b40cd994999352cd29e281c41e7ba7c1996486a10808b46f8e3aa98c04b)

@@ -55,6 +55,8 @@
 2. Tuple Methods
 3. Sets
 4. Set Methods
+5. Dictionary
+6. Dict Methods
 
 [Day4_Python_Notebook →](pending)
 

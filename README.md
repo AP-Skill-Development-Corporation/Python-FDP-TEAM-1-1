@@ -58,7 +58,7 @@
 5. Dictionary
 6. Dict Methods
 
-[Day4_Python_Notebook →](pending)
+[Day4_Python_Notebook →](https://github.com/AP-Skill-Development-Corporation/Python-FDP-TEAM-1-1/blob/master/Day4_21May2020/Day-4%20(1).ipynb)
 
 [Day4_Practice_Problems](https://github.com/AP-Skill-Development-Corporation/Python-FDP-TEAM-1-1/blob/master/Day4_21May2020/Day4_Practice_Problems.ipynb)
 

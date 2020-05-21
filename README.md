@@ -45,4 +45,6 @@
 
 [Day3_Python_Notebook →](https://github.com/AP-Skill-Development-Corporation/Python-FDP-TEAM-1-1/blob/master/Day3_20May2020/Day3.ipynb)
 
+[Day3_Practice_Problems](https://github.com/AP-Skill-Development-Corporation/Python-FDP-TEAM-1-1/blob/master/Day3_20May2020/Day3_practice_problems.ipynb)
+
 [Day3_Recorded_Video →](https://transcripts.gotomeeting.com/#/s/56c374a244de784081cc6f42d0f65ef55a525ac081c89a02b5b227c7bc45862c)

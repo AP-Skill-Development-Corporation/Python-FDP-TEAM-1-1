@@ -73,7 +73,7 @@ Day4_Python_Notebook → [[ipynb Format](https://github.com/AP-Skill-Development
 5. Regular Expressions
 6. Special characters in Regular Expressions
 
-Day5_Python_Notebook → [[ipynb Format](notUpdated)]**,** [[PDF Format](notUpdated)]
+Day5_Python_Notebook → [[ipynb Format](https://github.com/AP-Skill-Development-Corporation/Python-FDP-TEAM-1-1/blob/master/Day5_22May2020/Day5-PythonProgramming.ipynb)]**,** [[PDF Format](notUpdated)]
 
 [Day5_Practice_Problems](https://github.com/AP-Skill-Development-Corporation/Python-FDP-TEAM-1-1/blob/master/Day5_22May2020/Day5_practice.ipynb)
 

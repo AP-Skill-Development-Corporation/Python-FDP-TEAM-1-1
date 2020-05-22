@@ -63,3 +63,18 @@ Day4_Python_Notebook → [[ipynb Format](https://github.com/AP-Skill-Development
 [Day4_Practice_Problems](https://github.com/AP-Skill-Development-Corporation/Python-FDP-TEAM-1-1/blob/master/Day4_21May2020/Day4_Practice_Problems.ipynb)
 
 [Day4_Recorded_Video](https://transcripts.gotomeeting.com/#/s/87146b40cd994999352cd29e281c41e7ba7c1996486a10808b46f8e3aa98c04b)
+
+## Day5 Discussed Concepts
+
+1. Functions
+2. Pre-defined functions
+3. User defined functions
+4. Based on different type of arguments passing
+5. Regular Expressions
+6. Special characters in Regular Expressions
+
+Day5_Python_Notebook → [[ipynb Format](notUpdated)]**,** [[PDF Format](notUpdated)]
+
+[Day5_Practice_Problems](https://github.com/AP-Skill-Development-Corporation/Python-FDP-TEAM-1-1/blob/master/Day5_22May2020/Day5_practice.ipynb)
+
+[Day5_Recorded_Video](https://transcripts.gotomeeting.com/#/s/7829e1b3a1addd824a09e2942c16ce8eac030728122ba06b033fed5834f8658c)

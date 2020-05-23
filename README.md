@@ -78,3 +78,16 @@ Day5_Python_Notebook → [[ipynb Format](https://github.com/AP-Skill-Development
 [Day5_Practice_Problems](https://github.com/AP-Skill-Development-Corporation/Python-FDP-TEAM-1-1/blob/master/Day5_22May2020/Day5_practice.ipynb)
 
 [Day5_Recorded_Video](https://transcripts.gotomeeting.com/#/s/7829e1b3a1addd824a09e2942c16ce8eac030728122ba06b033fed5834f8658c)
+
+## Day6 Discussed Concepts
+
+1. Modules
+2. Packages
+3. Working with files
+4. Read/Write/Append operations
+
+Day6_Python_Notebook → [[ipynb Format](NotUpdated)]**,** [[PDF Format](notUpdated)]
+
+[Day6_Practice_Problems](https://github.com/AP-Skill-Development-Corporation/Python-FDP-TEAM-1-1/blob/master/Day6_23May2020/Day6_practice.ipynb)
+
+[Day6_Recorded_Video](NotUpdated)

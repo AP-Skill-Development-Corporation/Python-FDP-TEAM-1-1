@@ -91,6 +91,12 @@ Day6_Python_Notebook → [[ipynb Format](https://github.com/AP-Skill-Development
 [Day6_Practice_Problems](https://github.com/AP-Skill-Development-Corporation/Python-FDP-TEAM-1-1/blob/master/Day6_23May2020/Day6_practice.ipynb)
 
 [Day6_Recorded_Video](https://transcripts.gotomeeting.com/#/s/b028e1eb0fce64423c0c1d9656df2514f980ccfc6985a507d51cb9dcf9898dfb)
+
+Day7_Python_Notebook → [[ipynb Format](https://github.com/AP-Skill-Development-Corporation/Python-FDP-TEAM-1-1/blob/master/Day7_26May2020/Day7_26May2020.ipynb)]**,** [[PDF Format](https://github.com/AP-Skill-Development-Corporation/Python-FDP-TEAM-1-1/blob/master/Day7_26May2020/Day7_26May2020.pdf)]
+
+[Day7_Practice_Problems](https://github.com/AP-Skill-Development-Corporation/Python-FDP-TEAM-1-1/blob/master/Day7_26May2020/Day7_27May2020_Practice.ipynb)
+
+[Day7_Recorded_Video](https://transcripts.gotomeeting.com/#/s/ed616f6a071bb21f40c3f55e110a2537121d73936f8127c54f142b6adef9b848)
 ***************
 
 ## Attendance till Day 6 → [Click Here to View](https://github.com/AP-Skill-Development-Corporation/Python-FDP-TEAM-1-1/blob/master/Summer_FDPS%20Attendance(upto%2023-05-2020).pdf)

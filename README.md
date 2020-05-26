@@ -3,7 +3,7 @@
 
 ## Day 1 Discussed Concepts
 
-1. Imtroduction to Python
+1. Introduction to Python
 2. Anaconda Installation & Overview
     - Why Anaconda?
     - Introducton Google Colab

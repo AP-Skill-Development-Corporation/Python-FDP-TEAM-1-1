@@ -98,6 +98,17 @@ Day7_Python_Notebook → [[ipynb Format](https://github.com/AP-Skill-Development
 [Day7_Practice_Problems](https://github.com/AP-Skill-Development-Corporation/Python-FDP-TEAM-1-1/blob/master/Day7_26May2020/Day7_27May2020_Practice.ipynb)
 
 [Day7_Recorded_Video](https://transcripts.gotomeeting.com/#/s/ed616f6a071bb21f40c3f55e110a2537121d73936f8127c54f142b6adef9b848)
+
+## Day8 Discussed Concepts
+
+1.list comprehension
+2.Dictionary comprehension
+3.set comprehension
+4.Sending Mail using Python
+
+Day8_Python_Notebook → [[ipynb Format](https://github.com/AP-Skill-Development-Corporation/Python-FDP-TEAM-1-1/blob/master/Day8_27May2020/Day8_27May2020.ipynb)]**,** [[PDF Format](https://github.com/AP-Skill-Development-Corporation/Python-FDP-TEAM-1-1/blob/master/Day7_26May2020/Day8_27May2020.pdf)]
+
+[Day8_Recorded_Video](https://transcripts.gotomeeting.com/#/s/23855b2767293d2ed13fe283b83ac48336ab8ea468b6a9004a1c01e65ddf7dd6)
 ***************
 
 

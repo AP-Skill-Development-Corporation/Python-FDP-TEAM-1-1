@@ -1,5 +1,6 @@
 # Python Programming
-
+## Attendance Link for All Days → [Click Here to View](https://docs.google.com/spreadsheets/d/11ccRPyKR4N_jdvFTDMuV2OQ8ZyRf3Js9JiI7eVWDSS4/edit?usp=sharing)
+---------
 
 ## Day 1 Discussed Concepts
 
@@ -99,5 +100,4 @@ Day7_Python_Notebook → [[ipynb Format](https://github.com/AP-Skill-Development
 [Day7_Recorded_Video](https://transcripts.gotomeeting.com/#/s/ed616f6a071bb21f40c3f55e110a2537121d73936f8127c54f142b6adef9b848)
 ***************
 
-## Attendance till Day 6 → [Click Here to View](https://github.com/AP-Skill-Development-Corporation/Python-FDP-TEAM-1-1/blob/master/Summer_FDPS%20Attendance(upto%2023-05-2020).pdf)
----------
+

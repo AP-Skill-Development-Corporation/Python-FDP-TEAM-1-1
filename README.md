@@ -102,8 +102,11 @@ Day7_Python_Notebook → [[ipynb Format](https://github.com/AP-Skill-Development
 ## Day8 Discussed Concepts
 
 1.list comprehension
+
 2.Dictionary comprehension
+
 3.set comprehension
+
 4.Sending Mail using Python
 
 Day8_Python_Notebook → [[ipynb Format](https://github.com/AP-Skill-Development-Corporation/Python-FDP-TEAM-1-1/blob/master/Day8_27May2020/Day8_27May2020.ipynb)]**,** [[PDF Format](https://github.com/AP-Skill-Development-Corporation/Python-FDP-TEAM-1-1/blob/master/Day7_26May2020/Day8_27May2020.pdf)]

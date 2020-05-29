@@ -113,5 +113,16 @@ Day8_Python_Notebook → [[ipynb Format](https://github.com/AP-Skill-Development
 
 [Day8_Recorded_Video](https://transcripts.gotomeeting.com/#/s/23855b2767293d2ed13fe283b83ac48336ab8ea468b6a9004a1c01e65ddf7dd6)
 ***************
+## Day9 Discussed Concepts
+
+1. Introduction to Numpy
+2. Difference between Numpy and Python Lists
+3. Numpy Basics and Slicing
+4. Trignometric, Stastical methods avaliable in Python
+5. Brodcating of NUmpy arrays
+
+Day9_Python_Notebook → [[ipynb Format](https://github.com/AP-Skill-Development-Corporation/Python-FDP-TEAM-1-1/blob/master/Day9_28May2020/Day9.ipynb)]**,** [[PDF Format](https://github.com/AP-Skill-Development-Corporation/Python-FDP-TEAM-1-1/blob/master/Day9_28May2020/Day9.pdf)] **,** [[Slides](https://github.com/AP-Skill-Development-Corporation/Python-FDP-TEAM-1-1/blob/master/Day9_28May2020/Numerical%20Python%20(Numpy)%20Slides.pdf)]
 
 
+[Day9_Recorded_Video](https://transcripts.gotomeeting.com/#/s/0917dfba5d08e71cb5b2a31401317e0b869994ab83a61129ba0c98ad139fb110)
+*******

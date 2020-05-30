@@ -1,4 +1,5 @@
 ## [Educational Resourses Specially for Faculty from GITHUB](https://education.github.com/toolbox)
+## [Educational Resourses Specially for Students from GITHUB](https://education.github.com/pack)
 
 
 ## 1. [Anaconda Software Download](https://www.anaconda.com/products/individual)

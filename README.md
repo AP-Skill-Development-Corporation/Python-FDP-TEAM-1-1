@@ -123,6 +123,14 @@ Day8_Python_Notebook → [[ipynb Format](https://github.com/AP-Skill-Development
 
 Day9_Python_Notebook → [[ipynb Format](https://github.com/AP-Skill-Development-Corporation/Python-FDP-TEAM-1-1/blob/master/Day9_28May2020/Day9.ipynb)]**,** [[PDF Format](https://github.com/AP-Skill-Development-Corporation/Python-FDP-TEAM-1-1/blob/master/Day9_28May2020/Day9.pdf)]**,** [[Slides](https://github.com/AP-Skill-Development-Corporation/Python-FDP-TEAM-1-1/blob/master/Day9_28May2020/Numerical%20Python%20(Numpy)%20Slides.pdf)]
 
+## Day10 Discussed Concepts
 
-[Day9_Recorded_Video](https://transcripts.gotomeeting.com/#/s/0917dfba5d08e71cb5b2a31401317e0b869994ab83a61129ba0c98ad139fb110)
+1. Introduction to Pandas
+2. Difference between Numpy and Series
+3. Pandas Series and DataFrame Data Structures
+4. Read External CSV Files
+5. Different Methods in DataFrame
+
+Day10_Python_Notebook → [[ipynb Format](https://github.com/AP-Skill-Development-Corporation/Python-FDP-TEAM-1-1/blob/master/Day10_29May2020/Pandas.ipynb)]**,** [[PDF Format](https://github.com/AP-Skill-Development-Corporation/Python-FDP-TEAM-1-1/blob/master/Day10_29May2020/Pandas.pdf)]**,** [[Slides](https://numpy.org/doc/stable/)]
+[Day9_Recorded_Video](https://transcripts.gotomeeting.com/#/s/338460f15b6a38f9db8f388a2721a880388c403dc03784669dcc56d4e1e73859)
 *******

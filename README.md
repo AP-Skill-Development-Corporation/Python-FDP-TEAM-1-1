@@ -132,5 +132,7 @@ Day9_Python_Notebook → [[ipynb Format](https://github.com/AP-Skill-Development
 5. Different Methods in DataFrame
 
 Day10_Python_Notebook → [[ipynb Format](https://github.com/AP-Skill-Development-Corporation/Python-FDP-TEAM-1-1/blob/master/Day10_29May2020/Pandas.ipynb)]**,** [[PDF Format](https://github.com/AP-Skill-Development-Corporation/Python-FDP-TEAM-1-1/blob/master/Day10_29May2020/Pandas.pdf)]**,** [[Slides](https://numpy.org/doc/stable/)]
+
+
 [Day9_Recorded_Video](https://transcripts.gotomeeting.com/#/s/338460f15b6a38f9db8f388a2721a880388c403dc03784669dcc56d4e1e73859)
 *******

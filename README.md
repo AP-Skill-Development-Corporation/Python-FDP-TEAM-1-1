@@ -139,3 +139,7 @@ Day10_Python_Notebook → [[ipynb Format](https://github.com/AP-Skill-Developmen
 
 [Day10_Recorded_Video](https://transcripts.gotomeeting.com/#/s/338460f15b6a38f9db8f388a2721a880388c403dc03784669dcc56d4e1e73859)
 *******
+
+Day11_Python_Notebook → [[ipynb Format](https://github.com/AP-Skill-Development-Corporation/Python-FDP-TEAM-1-1/blob/master/Day11_30May2020/Day11.ipynb)]**,** [[PDF Format](https://github.com/AP-Skill-Development-Corporation/Python-FDP-TEAM-1-1/blob/master/Day9_28May2020/Day11.pdf)]
+
+[Day11_Recorded_Video](https://transcripts.gotomeeting.com/#/s/e515c3093af714662e71bde22ae0a213b3229826830eb46095933792215fc1f0)

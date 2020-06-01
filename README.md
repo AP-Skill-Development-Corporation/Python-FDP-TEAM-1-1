@@ -140,6 +140,18 @@ Day10_Python_Notebook → [[ipynb Format](https://github.com/AP-Skill-Developmen
 [Day10_Recorded_Video](https://transcripts.gotomeeting.com/#/s/338460f15b6a38f9db8f388a2721a880388c403dc03784669dcc56d4e1e73859)
 *******
 
+1. Introduction to Matplotlb
+2. Matplotlib Architecture
+3. Visualization using Pyplot in Matplotlib
+    1. Line plot
+    2. Scatter Plot
+    3. Stem Plot
+    4. Bar Graph
+    5. Histogram
+    6. Pie Chart
+4. Subplots
+5. Discussed few other Packages
+
 Day11_Python_Notebook → [[ipynb Format](https://github.com/AP-Skill-Development-Corporation/Python-FDP-TEAM-1-1/blob/master/Day11_30May2020/Day11.ipynb)]**,** [[PDF Format](https://github.com/AP-Skill-Development-Corporation/Python-FDP-TEAM-1-1/blob/master/Day9_28May2020/Day11.pdf)]
 
 [Day11_Recorded_Video](https://transcripts.gotomeeting.com/#/s/e515c3093af714662e71bde22ae0a213b3229826830eb46095933792215fc1f0)
